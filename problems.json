@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "cycle": 2
+  },
+  "problems": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 2,
+      "title": "Valid Anagram",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 3,
+      "title": "Best Time to Buy and Sell Stock",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 4,
+      "title": "Is Subsequence",
+      "url": "https://leetcode.com/problems/is-subsequence/",
+      "difficulty": "Easy",
+      "used": true
+    },
+    {
+      "id": 5,
+      "title": "Valid Palindrome II",
+      "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 6,
+      "title": "Maximum Number of Balloons",
+      "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 7,
+      "title": "Merge Strings Alternately",
+      "url": "https://leetcode.com/problems/merge-strings-alternately/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 8,
+      "title": "Assign Cookies",
+      "url": "https://leetcode.com/problems/assign-cookies/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 9,
+      "title": "Make The String Great",
+      "url": "https://leetcode.com/problems/make-the-string-great/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 10,
+      "title": "Intersection of Two Arrays II",
+      "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "difficulty": "Easy",
+      "used": true
+    },
+    {
+      "id": 11,
+      "title": "Relative Sort Array",
+      "url": "https://leetcode.com/problems/relative-sort-array/",
+      "difficulty": "Easy",
+      "used": true
+    },
+    {
+      "id": 12,
+      "title": "Can Place Flowers",
+      "url": "https://leetcode.com/problems/can-place-flowers/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 13,
+      "title": "Group Anagrams",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 14,
+      "title": "Top K Frequent Elements",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 15,
+      "title": "Longest Substring Without Repeating Characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 16,
+      "title": "Product of Array Except Self",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 17,
+      "title": "Encode and Decode Strings",
+      "url": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 18,
+      "title": "Container With Most Water",
+      "url": "https://leetcode.com/problems/container-with-most-water/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 19,
+      "title": "Longest Repeating Character Replacement",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 20,
+      "title": "Minimum Size Subarray Sum",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 21,
+      "title": "Find All Anagrams in a String",
+      "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 22,
+      "title": "Subarray Sum Equals K",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 23,
+      "title": "Binary Search",
+      "url": "https://leetcode.com/problems/binary-search/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 24,
+      "title": "Search in Rotated Sorted Array",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 25,
+      "title": "Evaluate Reverse Polish Notation",
+      "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 26,
+      "title": "Daily Temperatures",
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "difficulty": "Medium",
+      "used": true
+    },
+    {
+      "id": 27,
+      "title": "Car Fleet",
+      "url": "https://leetcode.com/problems/car-fleet/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 28,
+      "title": "Generate Parentheses",
+      "url": "https://leetcode.com/problems/generate-parentheses/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 29,
+      "title": "Permutation in String",
+      "url": "https://leetcode.com/problems/permutation-in-string/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 30,
+      "title": "Letter Combinations of a Phone Number",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 31,
+      "title": "Find Minimum in Rotated Sorted Array",
+      "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 32,
+      "title": "K Closest Points to Origin",
+      "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 33,
+      "title": "Merge Intervals",
+      "url": "https://leetcode.com/problems/merge-intervals/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 34,
+      "title": "Insert Interval",
+      "url": "https://leetcode.com/problems/insert-interval/",
+      "difficulty": "Medium",
+      "used": false
+    },
+    {
+      "id": 35,
+      "title": "Time Based Key-Value Store",
+      "url": "https://leetcode.com/problems/time-based-key-value-store/",
+      "difficulty": "Medium",
+      "used": true
+    },
+    {
+      "id": 36,
+      "title": "Design Browser History",
+      "url": "https://leetcode.com/problems/design-browser-history/",
+      "difficulty": "Medium",
+      "used": false
+    }
+  ]
+}
