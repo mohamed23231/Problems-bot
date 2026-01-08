@@ -1,6 +1,9 @@
 {
   "meta": {
-    "cycle": 2
+    "cycle": 2,
+    "phase": "easy",
+    "history": [],
+    "startedAt": "2026-01-08T11:05:00.000Z"
   },
   "problems": [
     {
@@ -29,12 +32,117 @@
       "title": "Is Subsequence",
       "url": "https://leetcode.com/problems/is-subsequence/",
       "difficulty": "Easy",
-      "used": true
+      "used": false
     },
     {
       "id": 5,
       "title": "Valid Palindrome II",
       "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 37,
+      "title": "Valid Parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 38,
+      "title": "Climbing Stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 39,
+      "title": "Reverse Linked List",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 40,
+      "title": "Majority Element",
+      "url": "https://leetcode.com/problems/majority-element/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 41,
+      "title": "Move Zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 42,
+      "title": "Diameter of Binary Tree",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 43,
+      "title": "Middle of the Linked List",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 44,
+      "title": "Same Tree",
+      "url": "https://leetcode.com/problems/same-tree/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 45,
+      "title": "Maximum Depth of Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 46,
+      "title": "Reverse String",
+      "url": "https://leetcode.com/problems/reverse-string/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 47,
+      "title": "First Unique Character in a String",
+      "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 48,
+      "title": "Contains Duplicate",
+      "url": "https://leetcode.com/problems/contains-duplicate/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 49,
+      "title": "Missing Number",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 50,
+      "title": "Roman to Integer",
+      "url": "https://leetcode.com/problems/roman-to-integer/",
+      "difficulty": "Easy",
+      "used": false
+    },
+    {
+      "id": 51,
+      "title": "Single Number",
+      "url": "https://leetcode.com/problems/single-number/",
       "difficulty": "Easy",
       "used": false
     },
@@ -71,14 +179,14 @@
       "title": "Intersection of Two Arrays II",
       "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
       "difficulty": "Easy",
-      "used": true
+      "used": false
     },
     {
       "id": 11,
       "title": "Relative Sort Array",
       "url": "https://leetcode.com/problems/relative-sort-array/",
       "difficulty": "Easy",
-      "used": true
+      "used": false
     },
     {
       "id": 12,
@@ -183,7 +291,7 @@
       "title": "Daily Temperatures",
       "url": "https://leetcode.com/problems/daily-temperatures/",
       "difficulty": "Medium",
-      "used": true
+      "used": false
     },
     {
       "id": 27,
@@ -246,7 +354,7 @@
       "title": "Time Based Key-Value Store",
       "url": "https://leetcode.com/problems/time-based-key-value-store/",
       "difficulty": "Medium",
-      "used": true
+      "used": false
     },
     {
       "id": 36,
